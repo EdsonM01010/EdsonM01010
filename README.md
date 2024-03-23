@@ -4,4 +4,4 @@
 
 - ("ola mundo");
 
-- programador de C++  e  Pascal
+- programador de C++  , Lua e  Pascal
