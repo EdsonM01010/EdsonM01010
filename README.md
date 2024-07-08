@@ -2,6 +2,6 @@
 
 ![linguagem](linguagem.png)
 
-![skill.png](software.png)
+![skill.png](skill.png)
 
 ## E.M.M.D.S
